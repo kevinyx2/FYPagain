@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>img1949.JPG</filename>
+	<path>C:\Users\user\Downloads\tensorflow_yolo_v3-master\tensorflow_yolo_v3-master\training_data\images\JPEGImages\img1949.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1697</width>
+		<height>615</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>buy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>322</ymin>
+			<xmax>476</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+</annotation>
